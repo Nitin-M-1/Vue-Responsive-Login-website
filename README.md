@@ -6,6 +6,5 @@
 npm run dev
 ```
 
-## UI
-
+## Website BluePrint 
 <img src="https://github.com/Nitin-M-1/Vue-Responsive-Login-website/blob/master/project-information/img1.JPG"/>
