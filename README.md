@@ -13,5 +13,7 @@ npm run dev
 ## UI( website version )
 
 <img src="https://github.com/Nitin-M-1/Vue-Responsive-Login-website/blob/master/project-information/img3.JPG"/>
-## UI( website version )
+
+## UI( Mobile version )
+
 <img src="https://github.com/Nitin-M-1/Vue-Responsive-Login-website/blob/master/project-information/img4.JPG"/>
